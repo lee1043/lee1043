@@ -14,6 +14,3 @@
 ## Contact
 - 📫 [email](mailto:lee1043@llnl.gov)
 - 📇 [LinkedIn](https://www.linkedin.com/in/jiwoolee/)
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=lee1043&show_icons=true)
